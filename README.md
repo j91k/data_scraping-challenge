@@ -12,6 +12,3 @@ Automated browsing to visit the Mars news site and used Beautiful Soup to extrac
 
 Automated browsing to scrape Mars weather data from an HTML table using Beautiful Soup, organized the data into a Pandas DataFrame and performed analysis to answer specific question about Martian Weather conditions. Export the DataFrame to a CSV file for further use.
 
-## Files
-- <code style ="color:blue">[part_1_mars_news.ipynb](https://github.com/Ernawaty2024/web_scraping/blob/main/part_1_mars_news1.ipynb)</code>
-- <code style ="color:blue">[part_2_mars_weather.ipynb](https://github.com/Ernawaty2024/web_scraping/blob/main/part_2_mars_weather1.ipynb)</code>
